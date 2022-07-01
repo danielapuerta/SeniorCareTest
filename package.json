@@ -1,0 +1,19 @@
+{
+  "name": "seniorcare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielapuerta/SeniorCare.git"
+  },
+  "author": "DanielaPuerta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielapuerta/SeniorCare/issues"
+  },
+  "homepage": "https://github.com/danielapuerta/SeniorCare#readme"
+}
