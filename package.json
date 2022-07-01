@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/danielapuerta/SeniorCare/issues"
   },
-  "homepage": "https://github.com/danielapuerta/SeniorCare#readme"
+  "homepage": "https://github.com/danielapuerta/SeniorCare#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
